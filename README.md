@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Hafid Zaeny</h1>
 <h3 align="center">Backend Developer</h3>
-<img align="right" alt="coding" width="300" src="https://media.baamboozle.com/uploads/images/527519/1639598488_23548_gif-url.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafid-nda&label=Profile%20views&color=0e75b6&style=flat" alt="hafid-nda" /> </p>
 
