@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Hafid Zaeny</h1>
-<h3 align="center">Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafid-nda&label=Profile%20views&color=0e75b6&style=flat" alt="hafid-nda" /> </p>
 
